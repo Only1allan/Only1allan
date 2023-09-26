@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/devops254" target="blank"><img src="https://img.shields.io/twitter/follow/devops254?logo=twitter&style=for-the-badge" alt="devops254" /></a> </p>
 
-- 🔭 I’m currently working on [React Js app clones including Tesla Clone, Netflix clone, LinkedIn Clone, Disney+ Clone and Club House Clone](https://github.com/Only1allan/Reactjs)
-
-- 🌱 I’m currently learning **React Js and Redux**
+- 🔭 I’m currently working on servers and backend web infrastructure
 
 - 👯 I’m looking to collaborate on **any stack development project**
 
