@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=only1allan&label=Profile%20views&color=0e75b6&style=flat" alt="only1allan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/devops254" target="blank"><img src="https://img.shields.io/twitter/follow/devops254?logo=twitter&style=for-the-badge" alt="devops254" /></a> </p>
-
-- 🔭 I’m currently working on servers and backend web infrastructure
+- 🔭 I’m currently working on AI saas application 
 
 - 👯 I’m looking to collaborate on **any stack development project**
 
