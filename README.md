@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=only1allan&label=Profile%20views&color=0e75b6&style=flat" alt="only1allan" /> </p>
 
-- 🔭 I’m currently working on AI saas application 
+- 🔭 I’m currently working on AI saas applications
 
 - 👯 I’m looking to collaborate on **any stack development project**
-
-- 💬 Ask me about **Shell scripting, C, Python, Django, Data Structures and Algorithms, Javascript**
 
 - 📫 How to reach me **kariukiallan850@gmail.com**
 
